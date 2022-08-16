@@ -26,10 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]
-(https://www.frontendmentor.io/solutions/nft-preview-card-component-built-with-mobile-first-workflow-and-css-fl-AwjrGGc8ja)
-- Live Site URL: [GitHub]
-(https://johnnysedh3lllo.github.io/nft-preview-card-component-frontend-mentor/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-built-with-mobile-first-workflow-and-css-fl-AwjrGGc8ja)
+- Live Site URL: [GitHub](https://johnnysedh3lllo.github.io/nft-preview-card-component-frontend-mentor/)
 
 ## My process
 
@@ -51,8 +49,8 @@ in future projects i plan to focus more on using CSS Grid and generally understa
 - [w3schools](https://www.w3schools.com) - as usually, w3schools has always been a good resource, but they were mainly effective in my understanding of the box shadow.
 
 ## Author
-- GitHub - [johnnysedh3lllo] (https://github.com/johnnysedh3lllo)
+- GitHub - [johnnysedh3lllo](https://github.com/johnnysedh3lllo)
 
-- Frontend Mentor - [@johnnysedh3lllo] (https://www.frontendmentor.io/profile/johnnysedh3lllo)
+- Frontend Mentor - [@johnnysedh3lllo](https://www.frontendmentor.io/profile/johnnysedh3lllo)
 
 - Twitter - [@johnnysedh3lllo](https://www.twitter.com/johnnysedh3lllo)
